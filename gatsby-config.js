@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Blog - Gatsby Course`,
+    position: `Desenvolvedora Fullstack`,
     description: `Gatsby Course: Create a PWA site with React, GraphQL and Netlify CMS.`,
-    author: `@alyoshas`,
+    author: `Evelyn Schmitz`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
