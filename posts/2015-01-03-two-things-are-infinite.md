@@ -3,7 +3,7 @@ date: 2015-01-03 05
 title: Two Tings are Infinite
 description: And I'm not sure about the universe.
 category: Misc
-background: "#07AAB13"
+background: "#7AAB13"
 ---
 
 # Lorem ipsum
